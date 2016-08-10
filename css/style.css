@@ -1,6 +1,43 @@
 body{
-	background-image: black;
+	background: #1576a8;
 }
-h5{
-	float: left;
+.navbar-brand{
+	color: #1576a8;
+	padding: 35px;
+	font-size: 30px;
+	font-family: 'Architects Daughter', cursive;
+}
+.nav{
+	font-family: 'Architects Daughter', cursive;
+}
+p{
+	color: #f0f0ef;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 15px;
+}
+.name{
+	font-size: 36px;
+	color: #1576a8;
+}
+.well{
+	width: 228px;
+	color: #1576a8;
+	text-align: center;
+	font-size: 34px;
+	font-family: 'Amatic SC', cursive;	
+	border-style: solid;
+	border-color: #6e7d81;
+	border-width: 1px;
+}
+.footer{
+	background-color: white;
+	margin: -12px -53px 0px -53px;
+	padding: 33px;
+	text-align: center;
+	font-size: 16px;
+	font-family: 'Amatic SC', cursive;
+	border-style: solid;
+	border-color: #6e7d81;
+	border-width: 5px;
+
 }
